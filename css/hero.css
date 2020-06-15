@@ -1,0 +1,41 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: #336666;
+	text-align: center;
+	padding-top: 50px
+	padding-bottom: 50px;
+}
+
+header h1{
+	color: white;
+	font-size: 50px
+
+}
+
+h1, h2{
+	font-family: 'Odibee Sans', cursive;
+}
+
+h2{
+	font-size: 35px
+}
+
+header img{
+	border-radius: 170px; 
+	width: 250px;
+	border: 20px solid #424242;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+main img{
+	max-width: 100%;
+}
+
+
