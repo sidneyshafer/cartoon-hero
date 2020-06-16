@@ -4,6 +4,7 @@ body{
 	line-height: 30px;
 }
 
+/*header styles*/
 header{
 	background-color: #546B2E;
 	text-align: center;
@@ -33,6 +34,7 @@ header img{
 	border: 20px solid;
 }
 
+/*main styles*/
 main{
 	max-width: 800px;
 	margin: 0 auto;
@@ -52,6 +54,8 @@ a{
 a:hover{
 	color: #FFCCBC;
 }
+
+/*footer styles*/
 footer{
 	background-color: black;
 	text-align: center;
