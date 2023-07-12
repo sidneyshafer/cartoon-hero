@@ -1,2 +1,2 @@
-# cartoon-hero
-My first website - a cartoon hero site featuring Groot!
+# Cartoon Hero Website
+My first website featuring the cartoon hero, Groot!
