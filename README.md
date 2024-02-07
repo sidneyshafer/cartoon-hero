@@ -1,2 +1,2 @@
 # Cartoon Hero Website
-My first website featuring the cartoon hero, Groot!
+A simple HTML and CSS website featuring "Groot".
