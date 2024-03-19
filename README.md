@@ -1,2 +1,2 @@
 # Cartoon Hero
-A static HTML and CSS website featuring a cartoon hero.
+A static webpage built with HTML & CSS to feature a cartoon hero.
